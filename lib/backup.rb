@@ -1,5 +1,5 @@
 
-def square_array(array)
+#def square_array(array)
   i=0;
   squared_array = []
   while i< array.length do
